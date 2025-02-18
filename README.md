@@ -1,1 +1,1 @@
-
+The basic code for "Weakly Supervised Lesion Localization and Attribution for OCT Images with a Guided Counterfactual Explainer Model" is provided, and the complete version will be fully developed and made available once the paper is accepted.
